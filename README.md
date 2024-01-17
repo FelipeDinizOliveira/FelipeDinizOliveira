@@ -1,5 +1,5 @@
 
-<h2 align="left">"Hello, I'm Felipe 😁👨‍💻</h2>
+<h2 align="left">"Hello, I'm Felipe 👨‍💻</h2>
 
 <h3> About me</h3>
 <p> "Embarking on a coding journey! 🚀 Currently immersed in the fascinating world of JavaScript and React. 🌐 Excited to turn concepts into dynamic web experiences! 💻</p>
